@@ -1,3 +1,18 @@
 body {
   background-color: rgb(247, 212, 247);
 }
+#picture {
+  margin: 0 auto;
+}
+
+#text {
+  margin: 0 auto;
+}
+
+#portfolio {
+  margin: 0 auto;
+}
+
+#website {
+  margin: 0 auto;
+}
