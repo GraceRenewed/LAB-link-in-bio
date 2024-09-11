@@ -1,8 +1,40 @@
-body {
-  background-color: rgb(247, 212, 247);
+body {background-color:  rgb(226, 252, 226);
 }
-#picture {
-  margin: 0 auto;
+.image {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 25px;
+}
+
+.btn-primary {
+  background: rgb(238, 142, 98);
+  border: rgb(238, 142, 98);
+  color: rgb(204, 91, 204);
+}
+
+.btn-primary:hover {
+  background-color: rgb(238, 127, 76);
+  margin: 25px;
+}
+
+.name {
+  text-align: center;
+  color: plum;
+  margin: 25px;
+}
+
+.bi-linkedin {
+  background-color: white;
+  color: #0D6EFD;
+  display: block;
+  margin: auto;
+}
+
+.space {
+  margin: 25px;
 }
 
 #text {
